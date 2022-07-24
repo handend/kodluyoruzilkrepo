@@ -15,4 +15,4 @@
 * 4, Root'un solundadır. 4, 5'in solundadır. 4, 1'in sağındadır. 4, 3'ün sağndadır.
 * 2, Root'un solundadır. 2, 5'in solundadır. 2, 1'in sağındadır. 2, 3'ün solundadır. 
 
-![Diziye Ait Binary-Search-Tree](https://www.hizliresim.com/3ww77yz)
+![Diziye Ait Binary-Search-Tree](https://i.hizliresim.com/3ww77yz.png)
