@@ -21,4 +21,4 @@ Big-O gösterimini yazınız.
 ### Big-O Gösterimi
 * Worst Case: O(nlogn)
 * Average Case: O(nlogn)
-* Best Case: O(n)
+* Best Case: O(nlogn)
